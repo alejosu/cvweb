@@ -1,21 +1,50 @@
 /* line 1, sass/estilo.sass */
 html {
-  margin-left: 15%;
-  margin-right: 15%;
-  background: grey;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
-/* line 6, sass/estilo.sass */
+/* line 5, sass/estilo.sass */
+ul {
+  list-style-type: none;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  -webkit-padding-start: 0;
+}
+
+/* line 13, sass/estilo.sass */
+.info-basica {
+  display: inline-block;
+}
+
+/* line 16, sass/estilo.sass */
+.foto {
+  display: inline-block;
+  margin-left: 20%;
+  text-align: right;
+  margin-right: 0;
+}
+
+/* line 22, sass/estilo.sass */
+.imagen {
+  border-radius: 50%;
+  heigh: 60%;
+  width: 60%;
+}
+
+/* line 27, sass/estilo.sass */
 .parrafos {
   font-family: "Kite One", sans-serif;
 }
 
-/* line 9, sass/estilo.sass */
+/* line 30, sass/estilo.sass */
 .titulos {
   font-family: "Patrick Hand SC", cursive;
 }
 
-/* line 12, sass/estilo.sass */
+/* line 33, sass/estilo.sass */
 .descripcion {
   font-family: "Kalam", cursive;
 }
