@@ -1,5 +1,6 @@
 /* line 1, sass/estilo.sass */
-body {
-  margin: 1rem 2rem;
+html {
+  margin-left: 15%;
+  margin-right: 15%;
   background: grey;
 }
