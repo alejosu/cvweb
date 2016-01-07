@@ -56,19 +56,20 @@ h4 {
   justify-content: space-between;
   align-items: center;
   padding: 1em;
+  border: 0.5px solid black;
 }
 
-/* line 45, sass/estilo.sass */
+/* line 46, sass/estilo.sass */
 .info-basica {
   align-self: flex-start;
 }
 
-/* line 48, sass/estilo.sass */
+/* line 49, sass/estilo.sass */
 .foto {
   align-self: flex-end;
 }
 
-/* line 51, sass/estilo.sass */
+/* line 52, sass/estilo.sass */
 .imagen {
   align-self: flex-end;
   border-radius: 50%;
@@ -76,106 +77,106 @@ h4 {
   width: 60%;
 }
 
-/* line 57, sass/estilo.sass */
+/* line 58, sass/estilo.sass */
 .parrafos {
   font-family: "Kite One", sans-serif;
   text-align: justify;
   padding: 1em;
 }
 
-/* line 62, sass/estilo.sass */
+/* line 63, sass/estilo.sass */
 .titulos {
   font-family: "Patrick Hand SC", cursive;
 }
 
-/* line 65, sass/estilo.sass */
+/* line 66, sass/estilo.sass */
 .descripcion {
   font-family: "Kalam", cursive;
 }
 
-/* line 68, sass/estilo.sass */
+/* line 69, sass/estilo.sass */
 .idioma {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px dashed #d1ddd3;
 }
 
-/* line 73, sass/estilo.sass */
+/* line 74, sass/estilo.sass */
 .estudio {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px dashed #d1ddd3;
 }
 
-/* line 78, sass/estilo.sass */
+/* line 79, sass/estilo.sass */
 .certificacion {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px dashed #d1ddd3;
 }
 
-/* line 83, sass/estilo.sass */
+/* line 84, sass/estilo.sass */
 .trabajo {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px dashed #d1ddd3;
 }
 
-/* line 88, sass/estilo.sass */
+/* line 89, sass/estilo.sass */
 .referencia {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px dashed #d1ddd3;
 }
 
-/* line 93, sass/estilo.sass */
+/* line 94, sass/estilo.sass */
 .creditos {
   font-size: 0.7em;
 }
 
-/* line 96, sass/estilo.sass */
+/* line 97, sass/estilo.sass */
 .nacimiento::before {
   content: url(../img/silhouette121.png);
   margin: 5px;
 }
 
-/* line 100, sass/estilo.sass */
+/* line 101, sass/estilo.sass */
 .nacionalidad::before {
   content: url(../img/earth53.png);
   margin: 5px;
 }
 
-/* line 104, sass/estilo.sass */
+/* line 105, sass/estilo.sass */
 .telefono::before {
   content: url(../img/auricular6.png);
   margin: 5px;
 }
 
-/* line 108, sass/estilo.sass */
+/* line 109, sass/estilo.sass */
 .movil::before {
   content: url(../img/smartphone86.png);
   margin: 5px;
 }
 
-/* line 112, sass/estilo.sass */
+/* line 113, sass/estilo.sass */
 .skype::before {
   content: url(../img/video-call.png);
   margin: 5px;
 }
 
-/* line 116, sass/estilo.sass */
+/* line 117, sass/estilo.sass */
 .web::before {
   content: url(../img/responsive16.png);
   margin: 5px;
 }
 
-/* line 120, sass/estilo.sass */
+/* line 121, sass/estilo.sass */
 .email::before {
   content: url(../img/mail59.png);
   margin: 5px;
 }
 
-/* line 124, sass/estilo.sass */
+/* line 125, sass/estilo.sass */
 .twitter::before {
   content: url(../img/twitter2.png);
   margin: 5px;
