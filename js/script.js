@@ -1,4 +1,9 @@
+$("js-english").click(function ()
+{
+  alert("Oprimio el boton");
+});
 
+/*
 $( "js-espanol" ).click(function() {
   alert("funciona");
   $(".english").css("display","none");
@@ -11,3 +16,4 @@ $( "js-english" ).click(function() {
   $(".english").css("display",("block"));
   );
 });
+*/
