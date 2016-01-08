@@ -1,7 +1,8 @@
 
 $("#js-english").click(function ()
 {
-  alert("Oprimio el boton");
+  $(".espanol").css("display","none");
+  $(".english").css("display",("block"));
 });
 
 /*
