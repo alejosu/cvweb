@@ -84,8 +84,8 @@ h4 {
 .imagen {
   align-self: flex-end;
   border-radius: 40%;
-  heigh: 60%;
-  width: 60%;
+  heigh: 40%;
+  width: 40%;
 }
 
 /* line 65, sass/estilo.sass */
