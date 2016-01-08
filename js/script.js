@@ -5,6 +5,12 @@ $("#js-english").click(function ()
   $(".english").css("display",("block"));
 });
 
+$("#js-espanol").click(function ()
+{
+  $(".english").css("display","none");
+  $(".espanol").css("display",("block"));
+});
+
 /*
 $( "js-espanol" ).click(function() {
   alert("funciona");
