@@ -84,110 +84,109 @@ h4 {
 .imagen {
   align-self: flex-end;
   border-radius: 40%;
-  heigh: 80%;
-  width: 80%;
+  width: 70%;
 }
 
-/* line 65, sass/estilo.sass */
+/* line 64, sass/estilo.sass */
 .parrafos {
   font-family: "Kite One", sans-serif;
   text-align: justify;
   padding: 1em;
 }
 
-/* line 70, sass/estilo.sass */
+/* line 69, sass/estilo.sass */
 .titulos {
   font-family: "Patrick Hand SC", cursive;
 }
 
-/* line 73, sass/estilo.sass */
+/* line 72, sass/estilo.sass */
 .descripcion {
   font-family: "Kalam", cursive;
 }
 
-/* line 76, sass/estilo.sass */
+/* line 75, sass/estilo.sass */
 .idioma {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px solid #d1ddd3;
 }
 
-/* line 81, sass/estilo.sass */
+/* line 80, sass/estilo.sass */
 .estudio {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px solid #d1ddd3;
 }
 
-/* line 86, sass/estilo.sass */
+/* line 85, sass/estilo.sass */
 .certificacion {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px solid #d1ddd3;
 }
 
-/* line 91, sass/estilo.sass */
+/* line 90, sass/estilo.sass */
 .trabajo {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px solid #d1ddd3;
 }
 
-/* line 96, sass/estilo.sass */
+/* line 95, sass/estilo.sass */
 .referencia {
   padding: 0 1em;
   padding-bottom: 1em;
   border-bottom: 1px solid #d1ddd3;
 }
 
-/* line 101, sass/estilo.sass */
+/* line 100, sass/estilo.sass */
 .creditos {
   font-size: 0.7em;
 }
 
-/* line 104, sass/estilo.sass */
+/* line 103, sass/estilo.sass */
 .nacimiento::before {
   content: url(../img/silhouette121.png);
   margin: 5px;
 }
 
-/* line 108, sass/estilo.sass */
+/* line 107, sass/estilo.sass */
 .nacionalidad::before {
   content: url(../img/earth53.png);
   margin: 5px;
 }
 
-/* line 112, sass/estilo.sass */
+/* line 111, sass/estilo.sass */
 .telefono::before {
   content: url(../img/auricular6.png);
   margin: 5px;
 }
 
-/* line 116, sass/estilo.sass */
+/* line 115, sass/estilo.sass */
 .movil::before {
   content: url(../img/smartphone86.png);
   margin: 5px;
 }
 
-/* line 120, sass/estilo.sass */
+/* line 119, sass/estilo.sass */
 .skype::before {
   content: url(../img/video-call.png);
   margin: 5px;
 }
 
-/* line 124, sass/estilo.sass */
+/* line 123, sass/estilo.sass */
 .web::before {
   content: url(../img/responsive16.png);
   margin: 5px;
 }
 
-/* line 128, sass/estilo.sass */
+/* line 127, sass/estilo.sass */
 .email::before {
   content: url(../img/mail59.png);
   margin: 5px;
 }
 
-/* line 132, sass/estilo.sass */
+/* line 131, sass/estilo.sass */
 .twitter::before {
   content: url(../img/twitter2.png);
   margin: 5px;
