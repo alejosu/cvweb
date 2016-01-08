@@ -1,5 +1,6 @@
 
 $( "js-espanol" ).click(function() {
+  alert("funciona");
   $(".english").css("display","none");
   $(".espanol").css("display",("block"));
   );
